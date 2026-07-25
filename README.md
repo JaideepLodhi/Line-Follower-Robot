@@ -62,7 +62,7 @@ Line-Follower-Robot
 
 ### Robot
 
-![Robot](Images/FrontView.png)
+![Robot](Images/TopView.png)
 
 ### Working
 
