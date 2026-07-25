@@ -19,7 +19,7 @@ A PID-based autonomous line follower robot developed using Arduino Uno, IR senso
 - Arduino Uno
 - TB6612FNG Dual Motor Driver
 - 2 × N20 Geared DC Motors
-- 5-Channel IR Sensor Array
+- 6-Channel IR Sensor Array
 - Robot Chassis
 - Caster Wheel
 - 7.4V Li-ion Battery
