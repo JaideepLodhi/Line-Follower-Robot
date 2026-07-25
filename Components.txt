@@ -1,0 +1,8 @@
+Arduino Neno
+TB6612FNG Motor Driver
+IR Sensor Array
+N20 Motors
+Li-ion Battery
+Caster Wheel
+Chassis
+Jumper Wires
