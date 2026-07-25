@@ -1,6 +1,6 @@
 # 🚗 Line Follower Robot
 
-A PID-based autonomous line follower robot developed using Arduino Uno, IR sensors, and the L298N motor driver. The robot continuously detects the path and adjusts motor speed to achieve smooth and accurate line tracking.
+A PID-based autonomous line follower robot developed using Arduino Uno, IR sensors, and the TB6612FNG motor driver. The robot continuously detects the path and adjusts motor speed to achieve smooth and accurate line tracking.
 
 ---
 
@@ -57,6 +57,16 @@ Line-Follower-Robot
 ```
 
 ---
+
+## 📷 Project Images
+
+### Robot
+
+![Robot](Images/FrontView.png)
+
+### Working
+
+![Working](Images/Working.png)
 
 ## 🚀 Future Improvements
 
